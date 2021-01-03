@@ -1,7 +1,7 @@
 # MIDS102JulioGuzman
-Proyecto Final Materia MIDS102 - CPDS
+Proyecto Final MIDS102 - CPDS
 
-Materia: Desarrollo de Aplicaciones .NET Framework
+Materia: MIDS102 - Desarrollo de Aplicaciones .NET Framework
 
 Nombre: Julio César Guzmán Cortés
 
